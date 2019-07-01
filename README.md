@@ -2,7 +2,7 @@
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
-hello
+hello Guru
 
 [![Build Status](https://dev.azure.com/gurusaligram0325/NewLife/_apis/build/status/GuruBahadur.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/gurusaligram0325/NewLife/_build/latest?definitionId=1&branchName=master)
 
